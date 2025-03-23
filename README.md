@@ -4,7 +4,7 @@ Introduction to stochastic modeling of data. Emphasis on models and statistical 
 ## Textbook
 [Essentials of Stochastic Processes by Durrett](https://github.com/Thomson-Cui/Stochastic-Models-Time-Series-and-Markov-Chains/tree/main/Books/MC.pdf)
 
-[Time Series Analysis and Its ApplicationsWith R ExamplesFifth Edition](https://github.com/Thomson-Cui/Stochastic-Models-Time-Series-and-Markov-Chains/tree/main/Books/TS.pdf)
+[Time Series Analysis and Its Applications With R Examples Fifth Edition](https://github.com/Thomson-Cui/Stochastic-Models-Time-Series-and-Markov-Chains/tree/main/Books/TS.pdf)
 ## Software
 - R is freely available from (https://www.r-project.org).
 - For your convenience, R Studio IDE is also freely available from (https://posit.co/download/rstudio-desktop/).
